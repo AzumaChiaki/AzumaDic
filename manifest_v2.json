@@ -16,7 +16,7 @@
       "media/Vela_Virtual_Devicerw-2026-07-03-19-49-53.png"
     ],
     "icon": "media/logo.png",
-    "cover": "media/780DC36BE6420AF666B84B57D794E620.png",
+    "cover": "media/6c618b7e0f5a7c3081d1a1631c9525d9_720.png",
     "author": [
       {
         "name": "AzumaChiaki",
@@ -33,36 +33,36 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     },
     "xmrw5xring": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     },
     "xmrw6": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     },
     "xmb10nfc": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     },
     "xmb10": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     },
     "xmb10p": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     },
     "xmb9": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     },
     "xmb9p": {
-      "version": "26.8.11",
-      "file_name": "downloads/com.azuma.dic.release.26.8.11.rpk"
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
     }
   },
   "ext": {
