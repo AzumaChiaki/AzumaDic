@@ -24,13 +24,7 @@
       }
     ]
   },
-  "links": [
-    {
-      "title": "官方网站",
-      "url": "https://azumachiaki.com",
-      "icon": ""
-    }
-  ],
+  "links": [],
   "downloads": {
     "xmrw5": {
       "version": "26.8.15",
@@ -61,6 +55,14 @@
       "file_name": "downloads/dic.rpk"
     },
     "xmb9p": {
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
+    },
+    "xmb11": {
+      "version": "26.8.15",
+      "file_name": "downloads/dic.rpk"
+    },
+    "xmb11nfc": {
       "version": "26.8.15",
       "file_name": "downloads/dic.rpk"
     }
